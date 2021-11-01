@@ -1,10 +1,11 @@
 {
 	"name": "@plata/prettier-config",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"main": "index.js",
 	"license": "MIT",
 	"devDependencies": {
 		"@plata/commitlint": "^0.0.1",
-		"husky": "^7.0.4"
+		"husky": "^7.0.4",
+		"standard-version": "^9.3.2"
 	}
 }
