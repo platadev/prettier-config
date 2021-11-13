@@ -16,16 +16,16 @@ Shared Prettier config for all [@plata](https://github.com/platadev) projects
 
 ```typescript
 module.exports = require('@plata/prettier-config');
-``
-
+```
 
 ## Feedback
 
 If you have any feedback, please reach out to us at [@albzrs](https://twitter.com/albzrs)
 
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+```
 
 ```
