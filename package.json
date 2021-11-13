@@ -1,9 +1,18 @@
 {
 	"name": "@plata/prettier-config",
 	"version": "0.2.0",
+	"description": "Shared Prettier config for all @plata projects",
 	"main": "index.js",
 	"license": "MIT",
-	"files": [],
+	"repository": "platadev/prettier-config",
+	"author": {
+		"email": "albizures@vk.com",
+		"name": "Jose Albizures",
+		"url": "https://albizures.com"
+	},
+	"files": [
+		"index.js"
+	],
 	"scripts": {
 		"release": "standard-version --release-as minor && git push --follow-tags origin HEAD"
 	},
@@ -11,5 +20,10 @@
 		"@plata/commitlint": "^0.0.2",
 		"husky": "^7.0.4",
 		"standard-version": "^9.3.2"
-	}
+	},
+	"keywords": [
+		"prettier",
+		"prettier-config",
+		"config"
+	]
 }

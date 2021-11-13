@@ -10,22 +10,16 @@ Shared Prettier config for all [@plata](https://github.com/platadev) projects
   yarn add @plata/prettier-config
 ```
 
-## Usage
+then in `prettier.config.js`
 
-`prettier.config.js`
-
-```typescript
+```js
 module.exports = require('@plata/prettier-config');
 ```
 
 ## Feedback
 
-If you have any feedback, please reach out to us at [@albzrs](https://twitter.com/albzrs)
+If you have any feedback, please reach out to me at [@albzrs](https://twitter.com/albzrs)
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-```
-
-```
